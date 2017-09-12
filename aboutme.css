@@ -1,0 +1,105 @@
+
+
+.list {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    border:solid;
+    border-radius: 100px;
+    border-style: dashed;
+    background-color:orange;
+    padding: 0 30 30 30;
+    margin-top: 0;
+    display:block;
+    text-align:center;
+}
+
+div {
+    margin: 15px;
+}
+
+a:link {
+    color:blue;
+    text-decoration: none;
+}
+
+a:visited {
+    color:green;
+    text-decoration: none;
+}
+
+a:hover {
+    color:yellow;
+    font-size:25px;
+    text-decoration: none;
+}
+
+a:active {
+    color:purple;
+    text-decoration: none;
+}
+
+body {
+    background-color: Blue;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Arvo', serif;
+}
+h3 {
+    text-align:center;
+    border-style:dashed;
+    border-width:4px;
+    font-family: 'Baloo Tammudu', cursive;
+    background-color:red;
+    border-color:orange;
+    color:orange;
+}
+p {    
+    font-family: 'Arvo', serif;
+    line-height: 40px;
+    font-weight: bold;
+    color:orange;
+    background-color:red;
+    border-style:dashed;
+    border-color:orange;
+}
+
+ol {
+    margin-left: 10px;
+    line-height: 50px;
+    list-style-type:disc;
+    font-family:'Baloo Tammudu' , serif;
+    color:orange;
+    border-style:dashed;
+    border-color:orange;
+    background-color:red;
+    font-size: 20px;
+}
+
+ul {
+    margin-left: 10px;
+    line-height: 50px;
+    list-style-type:disc;
+    font-family:'Arvo' , serif;
+    color:orange;
+    border-style:dashed;
+    border-color:orange;
+    background-color:red;
+    font-size: 20px;
+    text-decoration:none;
+}
+li {
+    list-style-type:none;
+}
+
+li:hover {
+    font-size:25px;
+}
+
+img {
+    border-radius:10%;
+}
