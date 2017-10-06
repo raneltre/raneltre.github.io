@@ -1,0 +1,114 @@
+
+.navigation-bar {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      position: relative;
+      top: 0;
+      font-family: 'Arvo', Serif;
+      float: right;
+      border-left: 1px solid gray;
+      display: block;
+      background-color: black;
+      text-align: left;
+}
+
+.header {
+    border:solid;
+    border-radius: 100px;
+    border-style: dashed;
+    background-color:white;
+    padding: 0 30 30 30;
+    margin-top: 0;
+    display:block;
+    text-align:center;
+}
+
+div {
+    margin: 15px;
+}
+
+a:link {
+    color: white;
+    text-decoration: none;
+}
+
+a:visited {
+    color: orange;
+    text-decoration: none;
+}
+
+a:hover {
+    color: red;
+    font-size:25px;
+    text-decoration: none;
+}
+
+a:active {
+    color:green;
+    text-decoration: none;
+}
+
+body {
+    background-color: Blue;
+}
+
+h1 {
+    font-size: 60px;
+    font-family: 'Arvo', serif;
+}
+h3 {
+    text-align:center;
+    border-style:dashed;
+    border-width:4px;
+    font-family: 'Baloo Tammudu', cursive;
+    background-color:black;
+    border-color:white;
+    color:white;
+}
+p {    
+    font-family: 'Arvo', serif;
+    line-height: 40px;
+    font-weight: bold;
+    color:white;
+    background-color:black;
+    border-style:dashed;
+    border-color:white;
+}
+
+ol {
+    margin-left: 10px;
+    line-height: 50px;
+    list-style-type:disc;
+    font-family:'Baloo Tammudu' , serif;
+    color:white;
+    border-style:dashed;
+    border-color:white;
+    background-color:black;
+    font-size: 20px;
+}
+
+ul {
+    margin-left: 10px;
+    line-height: 50px;
+    list-style-type:disc;
+    font-family:'Arvo' , serif;
+    color:white;
+    border-style:dashed;
+    border-color:white;
+    background-color:black;
+    font-size: 20px;
+    text-decoration:none;
+}
+li {
+    list-style-type:none;
+}
+
+li:hover {
+    font-size:25px;
+}
+
+img {
+    border-radius:10%;
+}
