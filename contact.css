@@ -1,0 +1,65 @@
+ body {
+     background-color: blue;
+     color: white;
+ }
+ 
+ ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      position: fixed;
+      top: 0;
+      width: 100%;
+      font-family: 'Arvo', Serif;
+  }
+  
+  li {
+      float: right;
+      border-left: 1px solid gray;
+  }
+  
+  li:last-child {
+      border-right: none;
+  }
+  
+   li a {
+      display: block;
+      padding: 14px 16px;
+      background-color: black;
+      text-align: center;
+  }
+  
+  li a:hover {
+      background-color: white;
+  }
+  
+  a:link {
+      color: white;
+  }
+  
+  a:visited {
+      color: orange;
+  }
+  
+  a:hover {
+      color: red;
+  }
+  
+  a:active {
+      color: green;
+  }
+  
+  .active {
+      background-color: white;
+  }
+  
+  .contact {
+    background-color: black;
+    border: 5px dashed white;
+    font-family: 'Baloo Tammudu', cursive;
+}
+
+.social {
+    float: right;
+}
