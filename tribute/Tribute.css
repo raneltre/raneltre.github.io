@@ -1,0 +1,19 @@
+h2, p {
+    border-style: solid;
+    color:white;
+}
+
+body {
+    background-color:red;
+}
+
+img {
+    display: inline;
+}
+
+h3 {
+    display: inline;
+    border-style: solid;
+    color:white;
+    font-size: 26px;
+}
