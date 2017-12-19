@@ -1,0 +1,51 @@
+h1 {
+    text-align: center;
+    color: white;
+    border: 4px red dashed;
+    background-color: black;
+    font-size: 90px;
+}
+
+body {
+    background-image: url("https://media.giphy.com/media/ygAaR0n5RsyAM/giphy.gif");
+    background-size: cover;
+}
+
+h6 {
+    border-style: solid;
+    color: white;
+    font-size: 20px;
+    float: left;
+    background-color: black;
+}
+
+img {
+    display: inline;
+}
+
+p {
+    float: right;
+    color: white;
+    position: relative;
+    text-align: right;
+}
+
+button {
+    float: none;
+    margin: 50px;
+}
+
+table, th, td {
+    border: 1px solid white;
+    color: white;
+    float: none;
+    font-size: 28px;
+}
+
+label {
+    color: white;
+}
+
+.total {
+    color: white;
+}
