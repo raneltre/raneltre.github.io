@@ -1,0 +1,31 @@
+.q1, .q2, .q3, .q1-choice, .q2-choice, .q3-choice{
+    display: none;
+}
+
+.sidebar {
+    background-color: #28cae1;
+    float: left;
+    border: 3px black dashed;
+    color: black;
+    font-size: 34px;
+}
+
+.content {
+    background-color: #fbf230;
+    font-size: 36px;
+    float: none;
+    border: 3px black dashed;
+    color: black;
+    text-align: center;
+}
+
+body {
+    background-color: #e72020;
+}
+
+.title {
+    background-color: #4de32a;
+    color: black;
+    border: 3px black dashed;
+    text-align: center;
+}
