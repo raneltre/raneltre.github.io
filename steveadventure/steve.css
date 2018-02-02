@@ -1,0 +1,33 @@
+.q1, .q2, .q3, .q4, .q5, .q6, .q7, .q1-choice, .q2-choice, .q3-choice, .q4-choice, .q5-choice, .q6-choice, .q7-choice, .imageA, .imageB, .imageC{
+    display: none;
+}
+
+body {
+    background-image: url("dirtbackground.jpg");
+    background-size: cover;
+}
+
+.content {
+    color: white;
+    background-color: black;
+    border: 3px white dashed;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    background-color: black;
+    border: 3px white dashed;
+    text-align: center;
+}
+
+.sidebar {
+    color: white;
+    background-color: black;
+    border: 3px white dashed;
+    text-align: center;
+}
+
+h5 {
+    color: red;
+}
